@@ -1,1 +1,29 @@
-Comming soon
+{
+    "info" : {
+        "fallback_font" : "ibm_plex_sans_jp_bold_27",
+        "default_font": "ibm_plex_sans_jp_bold_27",
+        "default_font_family" : "plex_sans"
+    },
+    "style": {
+        "colossal": "plex_sans/ibm_plex_sans_jp_light_200.mpf",
+        "huge": "plex_sans/ibm_plex_sans_jp_regular_140.mpf",
+        "supersizeme": "plex_sans/ibm_plex_sans_jp_regular_90.mpf",
+        "supersizemelight": "plex_sans/ibm_plex_sans_jp_light_90.mpf",
+        "largelight": "plex_sans/ibm_plex_sans_jp_light_46.mpf",
+        "large": "plex_sans/ibm_plex_sans_jp_regular_46.mpf",
+        "verybiglight": "plex_sans/ibm_plex_sans_jp_light_38.mpf",
+        "verybig": "plex_sans/ibm_plex_sans_jp_regular_38.mpf",
+        "mediumbigbold": "plex_sans/ibm_plex_sans_jp_bold_32.mpf",
+        "bigbold": "plex_sans/ibm_plex_sans_jp_bold_30.mpf",
+        "big": "plex_sans/ibm_plex_sans_jp_regular_30.mpf",
+        "biglight": "plex_sans/ibm_plex_sans_jp_light_30.mpf",
+        "mediumbold": "plex_sans/ibm_plex_sans_jp_bold_27.mpf",
+        "medium": "plex_sans/ibm_plex_sans_jp_regular_27.mpf",
+        "mediumlight": "plex_sans/ibm_plex_sans_jp_light_27.mpf",
+        "smallbold": "plex_sans/ibm_plex_sans_jp_bold_24.mpf",
+        "small": "plex_sans/ibm_plex_sans_jp_regular_24.mpf",
+        "verysmallbold": "plex_sans/ibm_plex_sans_jp_bold_20.mpf",
+        "verysmall": "plex_sans/ibm_plex_sans_jp_regular_20.mpf"
+    }
+}
+
